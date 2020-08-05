@@ -1,3 +1,5 @@
+This is a copy of the stable helm chart from https://github.com/helm/charts/tree/master/stable/traefik
+
 # Traefik
 
 [Traefik](https://traefik.io/) is a modern HTTP reverse proxy and load balancer made to deploy
